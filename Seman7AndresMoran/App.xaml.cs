@@ -10,6 +10,7 @@ namespace Seman7AndresMoran
         {
             InitializeComponent();
 
+            //MainPage = new NavigationPage(new login());
             MainPage = new NavigationPage(new login());
         }
 
